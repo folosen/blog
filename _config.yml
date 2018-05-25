@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://folosen.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 小邋遢
+subtitle: "学习使我快乐"
+description: "小邋遢的个人博客"
+keywords: 邋遢, 小邋遢, xiaolata, 邋遢, folosen
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: folosen
+organization: folosen.github.io
+organization_url: https://folosen.github.io/
+github_username: folosen
+location: ShangHai, China
+email: frozenyihan@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -39,8 +39,8 @@ navs:
 #     label: 归档
 
   -
-    href: /wiki/
-    label: 维基
+    # href: /wiki/
+    # label: 维基
 
   -
     href: /links/
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: folosen/folosen.github.io
 
 # ---------------- #
 #      Comments    #
